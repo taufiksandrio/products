@@ -1,0 +1,89 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "nama_product": "Rexus Keyboard Gaming",
+            "slug": "rexus-keyboard-gaming",
+            "harga": "150.000",
+            "domisili": "Jakarta",
+            "rating": "4.5",
+            "terjual": "12 rb",
+            "kategori": "keyboard",
+            "img": "keyboard-rexus",
+            "keterangan": "<p>Keycap Tipe Pudding dengan Materal Berkualitas Keyboard Legionare MX9 Pudding Version menggunaka keycap yang dinding keycap-nya tembus pandang sehingga cahaya LED di dalamnya dapat terlihat keluar. Keycap tersebut terbuat dari material ABS berkualitas, dengan huruf yang dicetak dengan teknologi Double-shot Injection.</p><p>Switch Outemu Berdaya Tahan 50 Juta Klik Keyboard Legionare MX9 Pudding Version menggunakan tipe switch Outemu yang dapat dilepas mandiri secara mudah, Terdapat dua pilihan switch, yaitu Blue (clicky, tactile) dan Red (linear, silent)</p>"
+            
+        },
+        {
+            "id": 2,
+            "nama_product": "Keyboard Gaming NYK K02",
+            "slug": "keyboard-gaming-nyk",
+            "harga": "350.000",
+            "domisili": "Bandung",
+            "rating": "3.7",
+            "terjual": "8 rb",
+            "kategori": "keyboard",
+            "img": "keyboard-nyk",
+            "keterangan": "<p>Keyboard TKL K-01 adalah keyboard gaming TKL (tenkeyless) yang dilengkapi dengan desain anti splash proof. Keyboard ini juga menggunakan teknologi laser engraving pada setiap tombol sehingga huruf-huruf pada keycap tidak akan mudah memudar</p>"
+        },
+        {
+            "id": 3,
+            "nama_product": "CIJI Keyboard Gaming Wired",
+            "slug": "ciji-keyboard-gaming-wired",
+            "harga": "500.000",
+            "domisili": "Depok",
+            "rating": "4.8",
+            "terjual": "2 rb",
+            "kategori": "keyboard",
+            "img": "keyboard-wired",
+            "keterangan": "<p>desain tahan air, bagian belakang keyboard dilegkapi dengan beberapa lubang drainase untuk percikan air dapat mengalir dengan bebas dari keyboard tanpa rasa khawatir kerusakan tombol, memperkuat struktural dan pengerjaan yang lebih teliti</p>"
+        },
+        {
+            "id": 4,
+            "nama_product": "Rexus Daxa Air II Pro Wireless Gaming",
+            "slug": "rexus-daxa-air-ii-pro-wireless-gaming",
+            "harga": "350.000",
+            "domisili": "Bandung",
+            "rating": "4.5",
+            "terjual": "3 rb",
+            "kategori": "mouse",
+            "img": "mouse-rexus",
+            "keterangan": "<p>Mouse Ultra-weight yang fungsional DAXA Air II Wireless menggunakan desain honeycomb yang tujuan utamanya adalah untuk memangkas berat mouse. Untuk kelas mouse dengan baterai tanam, Daxa Air II Wireless termasuk mouse dengan berat yang ringan, dengan bobot sekitar 77gram.</p>"
+        },
+        {
+            "id": 5,
+            "nama_product": "NOVA Ultralight Wireless Gaming Mouse",
+            "slug": "nova-ultralight-wireless-gaming-mouse",
+            "harga": "550.000",
+            "domisili": "Jakarta",
+            "rating": "4.5",
+            "terjual": "3 rb",
+            "kategori": "mouse",
+            "img": "mouse-nova",
+            "keterangan": "<p>NOVA v2 Wireless Gaming Mouse. Semua stock sudah v2, tidak ada lagi yg v1.</p>"
+        },
+        {
+            "id": 6,
+            "nama_product": "Rexus Vonix F30 Headset Gaming",
+            "slug": "rexus-vonix-f30-headset-gaming",
+            "harga": "154.000",
+            "domisili": "Bekasi",
+            "rating": "4.7",
+            "terjual": "10 rb",
+            "kategori": "headset",
+            "img": "headset-rexus",
+            "keterangan": "<p>Rexus gaming headset Vonix F30 adalah headset yang diperuntukkan bagi para pemain game PC. Headset ini tampil dengan desain yang sederhana, kompak, dan memprioritaskan kegunaan. Keunggulan lainnya adalah headset ini mempertahankan durabilitas layaknya berbagai tipe headset Rexus lain yang sudah banyak digunakan di beragam game center. Tampil tangguh, Vonix F30 tak mengesampingkan fungsi utamanya sebagai pemroduksi suara, dengan suara yang detil dan range lebar, seperti karakterisitik headset gaming pada umumnya.</p>"
+        },
+        {
+            "id": 7,
+            "nama_product": "AULA LB01 Prime Headset Gaming",
+            "slug": "aula-lb01-prime-headset-gaming",
+            "harga": "94.000",
+            "domisili": "Bogor",
+            "rating": "4.8",
+            "terjual": "17 rb",
+            "kategori": "headset",
+            "img": "headset-aula",
+            "keterangan": "<p>Headset adalah gabungan antara headphone dan mikrofon. Alat ini biasanya digunakan untuk mendengarkan suara sekaligus berbicara dengan perangkat komunikasi atau komputer, misalnya untuk VoIP (Voice IP). Headset juga paling cocok digunakan pada saat kita bermain game LAN dan game online, karena dengan menggunakan headset, kita dapat lebih leluasa berkomunikasi dengan pemain lain. Headset Aula LB01 ini diciptakan untuk menambah kenyamanan dan percaya diri bagi pemakainya .Headset ini di design untuk para gamers dengan bantalan yang nyaman dipakai dalam waktu lama dengan model keren yang bisa menambah kepercayaan diri anda saat memakainya. Dengan control Volume dibagian headset lebih mudah diatur dan mikrofon dibagian kabel serta ukuran kabel yang panjang nyaman digunakan. Headset gaming ini didesain sangat keren dan simple dengan desain ergonomic. Memiliki input audio jack 3.5 mm. Headband Aula LB01 lebar dan tebal sehingga sangat cocok untuk telinga. Sensitivitas microphone tinggi yaitu 113 db, serta microphone yang terdapat di antara penutup telinga. untuk pengunaanya sangat universal bisa digunakan untuk Laptop/Komputer maupun gadget, compatible untuk win XP/Vista/7/8/10 dengan frequency response : 20-20Khz. penutup telingan berukuran 8.5 x 2 x 9 cm dengan bentuk kabel seperti tali sepatu, panjang kabel +/- 180cm.</p>"
+        }
+    ]
+}
